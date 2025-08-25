@@ -9,5 +9,5 @@ app.listen(PORT, () => {
 });
 
 //Usado para rodar o servidor
-// node src\server.js
+// node .\src\server.js
 //http://localhost:3000/health <--- Usado para acessar no navegador
